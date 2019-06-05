@@ -39,7 +39,7 @@ h1 span:nth-child(even) {
 }
 
 /* Portfolio */
-figure{
+figure {
  background: red;
  padding 1em;
  width: 200px;
