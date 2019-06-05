@@ -37,3 +37,12 @@ h1 span:nth-child(even) {
 
   
 }
+
+/* Portfolio */
+figure{
+ background: red;
+ padding 1em;
+ width: 200px;
+ background: #c0ffee;
+  
+}
